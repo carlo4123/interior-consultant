@@ -35,7 +35,8 @@
 ## Overview
 
 ![screenshot]
-   <img src="../assets/screenshots.png" alt="photo 1" class="images">
+ <img src="../main/assets/Screenshots.png" alt="Desktop and Mobile view">
+ 
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -61,8 +62,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
-## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
